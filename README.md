@@ -2,7 +2,7 @@
 Interesting resources from the internet.
 
 # Zen
-- Mark ⏳ as looks good but not finished read yet.
+- Mark ⏳ as looks good but not finished reading yet.
 - Mark 👍 as must read.
 - Be free to leave your opinion or feeling below the link.
 - Never hesitate to delete some items.
