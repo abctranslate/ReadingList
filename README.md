@@ -1,9 +1,13 @@
 # ReadingList
 Interesting resources from the internet.
 
-# Zen
 - Mark ⏳ as looks good but not finished reading yet.
 - Mark 👍 as must read.
+- Mark 0️⃣ as for level 0 and can be skipped by sophisticated developers.
+- Mark 🎥 as video.
+
+# Zen
+
 - Be free to leave your opinion or feeling.
 - Never hesitate to delete useless or outdated items.
 
@@ -39,6 +43,10 @@ A basic glance at vector clock
 
 - [Version Vectors are not Vector Clocks](https://haslab.wordpress.com/2011/07/08/version-vectors-are-not-vector-clocks/)  
   Version Vectors update casual stats, Vector Clocks determine the total order of events. Furthermore, Vector Clocks never resolve conflicts, only detect them.
+
+### CRDT
+
+- 0️⃣🎥 [John Mumm - A CRDT Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs)  
 
 ### SAT
 - [SAT (Separating Axis Theorem)](https://dyn4j.org/2010/01/sat/)
