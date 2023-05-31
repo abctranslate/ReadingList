@@ -15,6 +15,8 @@ Interesting resources from the internet.
 ## Language
 ### shell
 - ⏳ [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/preface.html)
+- ⏳ [Effective Shell](https://effective-shell.com/)  
+  This is a "thick book" but definitely worth the time that cost.
 
 ### asm
 - ⏳ [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
@@ -24,6 +26,8 @@ Interesting resources from the internet.
 - 👍 [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)  
   Brief and thought provoking, and also the book 👍 [*Designing Data-Intensive Applications*](https://dataintensive.net/).
 - ⏳ [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+- [Isometric Tiles Math](https://clintbellanger.net/articles/isometric_math/)  
+  A brief introduction to the math behind isometric tile. Looks so nice...
 
 #### Vector Clock
 
